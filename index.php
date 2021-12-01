@@ -11,8 +11,8 @@
     <div class="wrapper">
         <div class="container">
         <?php 
-                include("view/identification.php");
-                include("view/potentiel.php");
+                include("identification.php");
+                include("potentiel.php");
          ?>
         </div>
     </div>

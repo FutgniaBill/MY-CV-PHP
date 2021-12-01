@@ -26,11 +26,11 @@
                                         {
                                             echo '
                                             <div class="falculte">
-                                                <img class="icon_check" src="img/checkbox.png" alt="">
+                                                <img class="icon_check" src="checkbox.png" alt="">
                                                 <div class="fac1">
                                                     <div class="titre_fac">
                                                         <h4>'.$comp["titre"].'</h4>
-                                                        <img class="specialicon" id="etoile" src="img/star.png" alt="">
+                                                        <img class="specialicon" id="etoile" src="star.png" alt="">
                                                     </div>
                                                     <div>'.$comp["langues"].'</div>
                                                     <div class="progresbar">
